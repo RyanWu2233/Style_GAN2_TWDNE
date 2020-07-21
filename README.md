@@ -23,9 +23,7 @@ Resolution of each image is 512 x 512.
 
 ----
 ## More example  
-![Result_8a](./Images/result_8a.jpg)   
-![Result_8b](./Images/result_8b.jpg)   
-![Result_8c](./Images/result_8c.jpg)   
+![Result_8a](./Images/result_8a.jpg)    
 
 ----
 ## Usage:  
