@@ -22,6 +22,12 @@ Resolution of each image is 512 x 512.
 ![Training](./Images/generation.gif)   
 
 ----
+## More example  
+![Result_8a](./Images/result_8a.jpg)   
+![Result_8b](./Images/result_8b.jpg)   
+![Result_8c](./Images/result_8c.jpg)   
+
+----
 ## Usage:  
 Execute or include file named `SG2_main.pu`. Then execute following instruction:  
 > `model = GAN()` Create style GAN2 object  
