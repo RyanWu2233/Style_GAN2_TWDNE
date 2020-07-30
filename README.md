@@ -25,6 +25,8 @@ Resolution of each image is 512 x 512.
 ## More example  
 ![Result_8a](./Images/result_8a.jpg)    
 
+![Gif](./Images/TWDNE_interpolator.gif)    
+
 ----
 ## Usage:  
 Execute or include file named `SG2_main.pu`. Then execute following instruction:  
